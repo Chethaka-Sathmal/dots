@@ -1,4 +1,8 @@
 /*/* Hide Firefox logo and wordmark on new tab page */
 .newtab-main .logo-and-wordmark {
   display: none !important;
-}*/
+}
+
+.top-site-outer .title-label {
+  display: none;
+}
