@@ -67,3 +67,4 @@ export PATH="/home/linuxbrew/.linuxbrew/opt/libpq/bin:$PATH"
 # bun
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
+export PATH=$PATH:/opt/android-studio/bin
