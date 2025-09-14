@@ -24,5 +24,5 @@ vim.opt.termguicolors = true
 
 -- set colorscheme
 vim.opt.background = "dark" -- set this to dark or light
-vim.cmd("colorscheme moonfly")
+vim.cmd("colorscheme vscode")
 
